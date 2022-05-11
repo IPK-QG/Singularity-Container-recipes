@@ -1,0 +1,1 @@
+## Singularity support for GPUs is documented at https://sylabs.io/guides/3.8/user-guide/gpu.html. Please set up the host per the instructions given under Requirement section to enable smooth implementation of the container. 
